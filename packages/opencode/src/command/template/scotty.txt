@@ -1,0 +1,9 @@
+Respond with exactly this ASCII art of Scotty the Scottish Terrier and nothing else:
+
+        /\_/\
+       ( o.o )
+        > ^ <
+       /|   |\
+      /_|___|_\
+        /   \
+       /_____\
